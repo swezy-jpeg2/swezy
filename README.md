@@ -12,7 +12,7 @@
 
 🔭 &nbsp;I'm currently working on **a automatic defens system**  
 💬 &nbsp;Ask me about **Cybersecurity**  
-😄 &nbsp;Pronouns: **her**
+😄 &nbsp;Pronouns: **he**
 
 ### 🛠️ Tech Stack
 
